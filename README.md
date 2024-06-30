@@ -1,5 +1,4 @@
-# atm9-trnsl-ru
-# Список модификаций ATM9:
+Список модификаций ATM9 в алфавитном порядке:
 
 1. Absent by design mod
   статус: ✅ переведено
@@ -462,7 +461,7 @@
   ссылка: http://enderio.com/
 
 132. Ender's delight
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 133. Enderchests
   статус: ❌ не переведено
@@ -484,7 +483,7 @@
   ссылка: https://teamcofh.com/
 
 138. Entangled
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/entangled
 
 139. Entityculling
@@ -671,7 +670,7 @@
   статус: ❌ не переведено
 
 193. Inventory essentials
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://mods.twelveiterations.com/mc/inventoryessentials
 
 194. Inventory profiles next
@@ -691,7 +690,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks
 
 198. Item collectors
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/item-collectors
 
 199. Item filters
@@ -717,7 +716,7 @@
   статус: ❌ не переведено
 
 205. Just enough archaeology
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 206. Just enough items
   статус: ❌ не переведено
@@ -988,7 +987,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/occultism
 
 279. Ocean's delight
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 280. Oculus
   статус: ❌ не переведено
@@ -1347,7 +1346,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/trash-cans
 
 383. Trashslot
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://mods.twelveiterations.com/mc/trashslot
 
 384. Traveler's backpack
@@ -1376,7 +1375,7 @@
   ссылка: https://u-team.info/mods/usefulrailroads
 
 391. Utilitarian
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 392. Utilitix
   статус: ❌ не переведено
@@ -1390,7 +1389,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/villager-tools
 
 395. Void totem
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/voidtotem
 
 396. Voidscape
