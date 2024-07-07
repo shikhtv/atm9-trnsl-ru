@@ -154,14 +154,14 @@
   статус: ✅ переведено
 
 45. Baubley heart canisters
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 46. Bdlib
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/bdlib
 
 47. Better advancements
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/better-advancements
 
 48. Betterf3
@@ -299,7 +299,7 @@
   ссылка: https://mods.twelveiterations.com/mc/cookingforblockheads
 
 85. Corail tombstone
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/corail-tombstone/
 
 86. Corail woodcutter
@@ -406,7 +406,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/delightful
 
 116. Dimstorage
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 117. Ding
   статус: ❌ не переведено
@@ -426,7 +426,7 @@
   статус: ❌ не переведено
 
 122. Easy villagers
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/easy-villagers
 
 123. Eccentric tome
@@ -454,7 +454,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/magnesium-extras
 
 130. End's delight
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 131. Ender io
   статус: ✅ переведено
@@ -488,6 +488,7 @@
 
 139. Entityculling
   статус: ✅ переведено
+  ссылка: https://modrinth.com/mod/entityculling
 
 140. Everything is copper
   статус: ❌ не переведено
@@ -504,7 +505,7 @@
   ссылка: https://github.com/GlodBlock/ExtendedAE
 
 144. Extra disks
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/extra-disks/
 
 145. Extrastorage
@@ -652,7 +653,7 @@
   ссылка: https://minecraft.curseforge.com/projects/immersive-engineering/
 
 187. Industrial foregoing
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 188. Industrial foregoing souls
   статус: ✅ переведено
@@ -682,7 +683,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/iron-furnaces/
 
 196. Iron jetpacks
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://blakesmods.com/iron-jetpacks
 
 197. Iron's spells 'n spellbooks
@@ -705,7 +706,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/jade-addons
 
 202. Journeymap
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: http://journeymap.info
 
 203. Journeymap integration
@@ -756,13 +757,13 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/libx
 
 216. Lionfishapi
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 217. Lithostitched
   статус: ❌ не переведено
 
 218. Little contraptions
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://littlelogistics.murad.dev
 
 219. Little logistics
@@ -793,7 +794,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-doors
 
 226. Macaw's fences - bop
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-fences-biomes-o-plenty
 
 227. Macaw's fences and walls
@@ -861,10 +862,10 @@
   ссылка: https://aidancbrady.com/mekanism/
 
 244. Memorysettings mod
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 245. Minecolonies
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://minecolonies.com
 
 246. Mining gadgets
@@ -979,7 +980,7 @@
   статус: ✅ переведено
 
 277. Observable
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://github.com/tasgon/observable
 
 278. Occultism
@@ -1015,7 +1016,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/pig-pen-cipher
 
 287. Pipez
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/pipez
 
 288. Placebo
@@ -1073,7 +1074,7 @@
   ссылка: https://github.com/Kotori316/QuarryPlus
 
 304. Railcraft reborn
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 305. Ranged pumps
   статус: ✅ переведено
@@ -1098,7 +1099,7 @@
   статус: ❌ не переведено
 
 311. Refined storage
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://refinedmods.com/refined-storage
 
 312. Refined storage addons
@@ -1153,7 +1154,7 @@
   статус: ❌ не переведено
 
 328. Runelic
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/runelic
 
 329. Searchables
@@ -1246,7 +1247,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib
 
 355. Supplementaries
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 356. Sushi go crafting
   статус: ✅ переведено
@@ -1294,7 +1295,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/thermal_extra
 
 368. Thermal foundation
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://teamcofh.com/
 
 369. Thermal innovation
@@ -1302,7 +1303,7 @@
   ссылка: https://teamcofh.com/
 
 370. Thermal integration
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://teamcofh.com/
 
 371. Thermal locomotion
@@ -1364,7 +1365,7 @@
   ссылка: https://u-team.info/mods/uteamcore
 
 388. Ui library mod
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 389. Universal grid
   статус: ✅ переведено
@@ -1385,7 +1386,7 @@
   статус: ❌ не переведено
 
 394. Villagertools
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/villager-tools
 
 395. Void totem
@@ -1404,7 +1405,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise
 
 399. Wireless chargers
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/wireless-chargers
 
 400. Wither skeleton tweaks
@@ -1432,7 +1433,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons
 
 407. Yung's better end island
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island
 
 408. Yung's better jungle temples
@@ -1456,7 +1457,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds
 
 413. Yung's better witch huts
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts
 
 414. Yung's extras
