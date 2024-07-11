@@ -331,14 +331,14 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/create
 
 94. Create crafts & additions
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://github.com/mrh0/createaddition
 
 95. Create enchantment industry
   статус: ✅ переведено
 
 96. Create jetpack
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 97. Create ore excavation
   статус: ❌ не переведено
@@ -348,7 +348,7 @@
   статус: ✅ переведено
 
 99. Create: new age
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: http://antarcticgardens.org/
 
 100. Create: steam 'n' rails
@@ -375,7 +375,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/curios
 
 107. Cyclops core
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 108. Dank storage
   статус: ❌ не переведено
@@ -509,7 +509,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/extra-disks/
 
 145. Extrastorage
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 146. Extreme reactors
   статус: ❌ не переведено
@@ -649,7 +649,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/hyperbox
 
 186. Immersive engineering
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://minecraft.curseforge.com/projects/immersive-engineering/
 
 187. Industrial foregoing
@@ -695,7 +695,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/item-collectors
 
 199. Item filters
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 200. Jade
   статус: ✅ переведено
@@ -720,7 +720,7 @@
   статус: ✅ переведено
 
 206. Just enough items
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/jei
 
 207. Just enough mekanism multiblocks
@@ -732,7 +732,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep
 
 209. Just enough resources
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
 
 210. Just zoom
@@ -749,7 +749,7 @@
   ссылка: https://github.com/Direwolf20-MC/LaserIO
 
 214. Libipn
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next
 
 215. Libx
@@ -786,7 +786,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-bridges
 
 224. Macaw's bridges - bop
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-biome-o-plenty
 
 225. Macaw's doors
@@ -822,7 +822,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-roofs
 
 233. Macaw's roofs - bop
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://curseforge.com/minecraft/mc-mods/macaws-roofs-biomes-o-plenty
 
 234. Macaw's trapdoors
@@ -869,7 +869,7 @@
   ссылка: https://minecolonies.com
 
 246. Mining gadgets
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://github.com/Direwolf20-MC/MiningGadgets/
 
 247. Mob despawn timers
@@ -944,7 +944,7 @@
   ссылка: https://blakesmods.com/mystical-customization
 
 267. Mythicbotany
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/mythicbotany
 
 268. Naturalist
@@ -952,7 +952,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/naturalist
 
 269. Nature's compass
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://github.com/MattCzyr/NaturesCompass
 
 270. Naturesaura
@@ -1092,7 +1092,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/rechiseled
 
 309. Redstone arsenal
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://teamcofh.com/
 
 310. Refined polymorphism
@@ -1186,7 +1186,7 @@
   ссылка: https://www.curseforge.com/members/melanx/
 
 337. Simple magnets
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/simple-magnets
 
 338. Simply light
@@ -1196,7 +1196,7 @@
   статус: ❌ не переведено
 
 340. Sophisticated backpacks
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 341. Sophisticated core
   статус: ❌ не переведено
