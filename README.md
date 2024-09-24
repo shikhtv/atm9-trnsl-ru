@@ -32,7 +32,7 @@
   статус: ✅ переведено
 
 9. Ae2 insert export card
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/ae2-insert-export-card
 
 10. Ae2 things
@@ -80,1392 +80,1391 @@
 23. Almostunified
   статус: ✅ переведено
 
-24. Angel ring 2
+24. Amendments
+  статус: ❌ не переведено
+
+25. Angel ring 2
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/angel-ring
 
-25. Apotheosis
+26. Apotheosis
   статус: ✅ переведено
 
-26. Apothic attributes
+27. Apothic attributes
   статус: ✅ переведено
 
-27. Appleskin
+28. Appleskin
   статус: ❌ не переведено
   ссылка: https://github.com/squeek502/AppleSkin
 
-28. Applied botanics
+29. Applied botanics
   статус: ✅ переведено
 
-29. Applied energistics 2
+30. Applied energistics 2
   статус: ✅ переведено
 
-30. Applied mekanistics
+31. Applied mekanistics
   статус: ✅ переведено
 
-31. Appliedflux
+32. Appliedflux
   статус: ❌ не переведено
   ссылка: https://github.com/GlodBlock/ExtendedAE
 
-32. Aquaculture 2
+33. Aquaculture 2
   статус: ✅ переведено
   ссылка: https://minecraft.curseforge.com/projects/aquaculture
 
-33. Architectury
+34. Architectury
   статус: ❌ не переведено
 
-34. Ars creo
+35. Ars creo
   статус: ✅ переведено
 
-35. Ars elemental
+36. Ars elemental
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/ars-elemental-elemental-spell-foci
 
-36. Ars nouveau
+37. Ars nouveau
   статус: ✅ переведено
 
-37. Ars ocultas
+38. Ars ocultas
   статус: ❌ не переведено
 
-38. Ars énergistique
+39. Ars énergistique
   статус: ✅ переведено
 
-39. Artifacts
+40. Artifacts
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/artifacts
 
-40. Athena
+41. Athena
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/athena
 
-41. Attributefix
+42. Attributefix
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/attributefix
 
-42. Bad wither no cookie reloaded
+43. Bad wither no cookie reloaded
   статус: ❌ не переведено
   ссылка: https://minecraft.curseforge.com/projects/bad-wither-no-cookie-reloaded
 
-43. Balm
+44. Balm
   статус: ❌ не переведено
   ссылка: https://mods.twelveiterations.com/
 
-44. Bamboo everything
+45. Bamboo everything
   статус: ✅ переведено
 
-45. Baubley heart canisters
+46. Baubley heart canisters
   статус: ✅ переведено
 
-46. Bdlib
+47. Bdlib
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/bdlib
 
-47. Better advancements
+48. Better advancements
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/better-advancements
 
-48. Betterf3
+49. Betterf3
   статус: ✅ переведено
   ссылка: https://modrinth.com/mod/betterf3
 
-49. Biomes o' plenty
+50. Biomes o' plenty
   статус: ❌ не переведено
 
-50. Blood magic
+51. Blood magic
   статус: ❌ не переведено
 
-51. Blue flame burning
+52. Blue flame burning
   статус: ❌ не переведено
 
-52. Blue skies
+53. Blue skies
   статус: ❌ не переведено
   ссылка: https://moddinglegacy.com/
 
-53. Bookshelf
+54. Bookshelf
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/bookshelf
 
-54. Botania
+55. Botania
   статус: ✅ переведено
   ссылка: https://botaniamod.net
 
-55. Botanypots
+56. Botanypots
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/botany-pots
 
-56. Botanytrees
+57. Botanytrees
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/botany-trees
 
-57. Botarium
+58. Botarium
   статус: ❌ не переведено
   ссылка: https://modrinth.com/mod/botarium
 
-58. Bozoid
+59. Bozoid
   статус: ❌ не переведено
   ссылка: https://discord.gg/GZjtAn3F6W
 
-59. Building gadgets 2
+60. Brandon's core
+  статус: ❌ не переведено
+
+61. Building gadgets 2
   статус: ✅ переведено
   ссылка: https://github.com/Direwolf20-MC/BuildingGadgets2
 
-60. Cable tiers
+62. Cable tiers
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/cable-tiers
 
-61. Caelus api
+63. Caelus api
   статус: ✅ переведено
   ссылка: https://github.com/TheIllusiveC4/Caelus
 
-62. Cataclysm mod
+64. Cataclysm mod
   статус: ✅ переведено
 
-63. Caupona
+65. Caupona
   статус: ✅ переведено
 
-64. Cc: tweaked
+66. Cc: tweaked
   статус: ✅ переведено
   ссылка: https://tweaked.cc
 
-65. Charging gadgets
+67. Charging gadgets
   статус: ✅ переведено
   ссылка: https://github.com/Direwolf20-MC/ChargingGadgets
 
-66. Charm of undying
+68. Charm of undying
   статус: ✅ переведено
 
-67. Chemlib
+69. Chemlib
   статус: ✅ переведено
 
-68. Chimes
+70. Chimes
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/chimes
 
-69. Chipped
+71. Chipped
   статус: ❌ не переведено
   ссылка: https://modrinth.com/mod/chipped
 
-70. Choicetheorem's overhauled village
+72. Choicetheorem's overhauled village
   статус: ✅ переведено
   ссылка: https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village
 
-71. Citadel
-  статус: ✅ переведено
-  ссылка: https://github.com/Alex-the-666/Citadel
-
-72. Clean swing through grass
+73. Clean swing through grass
   статус: ❌ не переведено
 
-73. Clickadv mod
+74. Clickadv mod
   статус: ❌ не переведено
 
-74. Cloth config v10 api
+75. Cloth config v10 api
   статус: ❌ не переведено
 
-75. Clumps
+76. Clumps
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/clumps
 
-76. Cofh core
+77. Codechicken lib
+  статус: ❌ не переведено
+  ссылка: https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8
+
+78. Cofh core
   статус: ✅ переведено
   ссылка: https://teamcofh.com/
 
-77. Colorful hearts
+79. Colorful hearts
   статус: ✅ переведено
 
-78. Comforts
+80. Comforts
   статус: ✅ переведено
 
-79. Commoncapabilities
+81. Commoncapabilities
   статус: ✅ переведено
 
-80. Connected glass
+82. Configuration
+  статус: ❌ не переведено
+
+83. Connected glass
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/connected-glass
 
-81. Connectivity mod
+84. Connectivity mod
   статус: ❌ не переведено
 
-82. Construction wand
+85. Construction wand
   статус: ✅ переведено
   ссылка: https://github.com/Theta-Dev/ConstructionWand
 
-83. Controlling
+86. Controlling
   статус: ✅ переведено
   ссылка: https://minecraft.curseforge.com/projects/controlling
 
-84. Cookingforblockheads
+87. Cookingforblockheads
   статус: ✅ переведено
   ссылка: https://mods.twelveiterations.com/mc/cookingforblockheads
 
-85. Corail tombstone
+88. Corail tombstone
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/corail-tombstone/
 
-86. Corail woodcutter
+89. Corail woodcutter
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter
 
-87. Corgilib
+90. Corgilib
   статус: ❌ не переведено
   ссылка: https://github.com/CorgiTaco/CorgiLib
 
-88. Corn delight
+91. Corn delight
   статус: ✅ переведено
 
-89. Cosmeticarmorreworked
+92. Cosmeticarmorreworked
   статус: ✅ переведено
 
-90. Crafting on a stick
+93. Crafting on a stick
   статус: ✅ переведено
 
-91. Craftingtweaks
+94. Craftingtweaks
   статус: ✅ переведено
   ссылка: https://mods.twelveiterations.com/mc/craftingtweaks
 
-92. Crash utilities
+95. Crash utilities
   статус: ✅ переведено
 
-93. Create
+96. Create
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/create
 
-94. Create crafts & additions
+97. Create crafts & additions
   статус: ✅ переведено
   ссылка: https://github.com/mrh0/createaddition
 
-95. Create enchantment industry
+98. Create enchantment industry
   статус: ✅ переведено
 
-96. Create jetpack
+99. Create jetpack
   статус: ✅ переведено
 
-97. Create ore excavation
-  статус: ❌ не переведено
+100. Create ore excavation
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/create-ore-excavation
 
-98. Create slice & dice
+101. Create slice & dice
   статус: ✅ переведено
 
-99. Create: new age
+102. Create: new age
   статус: ✅ переведено
   ссылка: http://antarcticgardens.org/
 
-100. Create: steam 'n' rails
+103. Create: steam 'n' rails
   статус: ❌ не переведено
 
-101. Creeper overhaul
+104. Creeper overhaul
   статус: ❌ не переведено
 
-102. Cristel lib
+105. Cristel lib
   статус: ✅ переведено
 
-103. Croptopia
+106. Croptopia
   статус: ✅ переведено
 
-104. Cucumber library
+107. Cucumber library
   статус: ✅ переведено
   ссылка: https://blakesmods.com/cucumber
 
-105. Cupboard utilities
+108. Cupboard utilities
   статус: ❌ не переведено
 
-106. Curios api
+109. Curios api
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/curios
 
-107. Cyclops core
+110. Cyclops core
   статус: ✅ переведено
 
-108. Dank storage
+111. Dank storage
   статус: ❌ не переведено
 
-109. Darkmodeeverywhere
+112. Darkmodeeverywhere
   статус: ✅ переведено
 
-110. Darkpaintings
+113. Darkpaintings
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/dark-paintings
 
-111. Darkutilities
+114. Darkutilities
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/dark-utilities
 
-112. Deeper and darker
+115. Deeper and darker
   статус: ❌ не переведено
 
-113. Deepresonance
+116. Deepresonance
   статус: ❌ не переведено
 
-114. Defaultsettings
+117. Defaultsettings
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/defaultsettings
 
-115. Delightful
+118. Delightful
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/delightful
 
-116. Dimstorage
+119. Dimstorage
   статус: ✅ переведено
 
-117. Ding
+120. Ding
   статус: ❌ не переведено
   ссылка: https://ichun.me/mods/ding/
 
-118. Domum ornamentum
+121. Domum ornamentum
   статус: ❌ не переведено
 
-119. Dungeon crawl
+122. Draconic evolution
   статус: ❌ не переведено
 
-120. Durability tooltip
+123. Dungeon crawl
+  статус: ❌ не переведено
+
+124. Durability tooltip
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/durability-tooltip
 
-121. Dyenamics
+125. Dyenamics
   статус: ❌ не переведено
 
-122. Easy villagers
+126. Dyenamics and friends
+  статус: ❌ не переведено
+
+127. Easy villagers
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/easy-villagers
 
-123. Eccentric tome
+128. Eccentric tome
   статус: ✅ переведено
   ссылка: https://github.com/EccentricVamp/EccentricTome
 
-124. Edivadlib
+129. Edivadlib
   статус: ❌ не переведено
 
-125. Eidolon:repraised
+130. Eidolon:repraised
   статус: ❌ не переведено
 
-126. Elevator mod
+131. Elevator mod
   статус: ✅ переведено
   ссылка: https://minecraft.curseforge.com/projects/openblocks-elevator/
 
-127. Elytra slot
+132. Elytra slot
   статус: ❌ не переведено
 
-128. Embeddium
+133. Embeddium
   статус: ✅ переведено
 
-129. Embeddium extras
-  статус: ❌ не переведено
-  ссылка: https://www.curseforge.com/minecraft/mc-mods/magnesium-extras
-
-130. End's delight
+134. End's delight
   статус: ✅ переведено
 
-131. Ender io
+135. Ender io
   статус: ✅ переведено
   ссылка: http://enderio.com/
 
-132. Ender's delight
+136. Ender's delight
   статус: ✅ переведено
 
-133. Enderchests
-  статус: ❌ не переведено
+137. Enderchests
+  статус: ✅ переведено
   ссылка: https://shetiphian.carrd.co
 
-134. Enderman overhaul
+138. Enderman overhaul
   статус: ✅ переведено
   ссылка: https://modrinth.com/mod/enderman-overhaul
 
-135. Endertanks
+139. Endertanks
   статус: ❌ не переведено
   ссылка: https://shetiphian.carrd.co
 
-136. Energy meter
+140. Energy meter
   статус: ❌ не переведено
 
-137. Ensorcellation
+141. Ensorcellation
   статус: ✅ переведено
   ссылка: https://teamcofh.com/
 
-138. Entangled
+142. Entangled
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/entangled
 
-139. Entityculling
+143. Entityculling
   статус: ✅ переведено
   ссылка: https://modrinth.com/mod/entityculling
 
-140. Everything is copper
+144. Euphoria patcher
+  статус: ❌ не переведено
+  ссылка: https://discord.com/invite/985QQxVQZF
+
+145. Everything is copper
   статус: ❌ не переведено
 
-141. Evilcraft
+146. Evilcraft
   статус: ❌ не переведено
 
-142. Exchangers
+147. Exchangers
   статус: ❌ не переведено
   ссылка: https://github.com/JackyyTV/Exchangers
 
-143. Extendedae
+148. Extendedae
   статус: ✅ переведено
   ссылка: https://github.com/GlodBlock/ExtendedAE
 
-144. Extra disks
+149. Extra disks
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/extra-disks/
 
-145. Extrastorage
+150. Extrastorage
   статус: ✅ переведено
 
-146. Extreme reactors
+151. Extreme reactors
   статус: ❌ не переведено
 
-147. Extreme sound muffler
+152. Extreme sound muffler
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler
 
-148. Farmer's delight
+153. Farmer's delight
   статус: ✅ переведено
   ссылка: https://github.com/vectorwing/FarmersDelight
 
-149. Farming for blockheads
-  статус: ❌ не переведено
+154. Farming for blockheads
+  статус: ✅ переведено
   ссылка: https://mods.twelveiterations.com/mc/trashslot
 
-150. Farsight mod
+155. Farsight mod
   статус: ❌ не переведено
 
-151. Fast leaf decay
+156. Fast leaf decay
   статус: ❌ не переведено
 
-152. Fast suite
+157. Fast suite
   статус: ❌ не переведено
 
-153. Fast workbench
+158. Fast workbench
   статус: ✅ переведено
 
-154. Fastfurnace
+159. Fastfurnace
   статус: ❌ не переведено
 
-155. Ferrite core
+160. Ferrite core
   статус: ❌ не переведено
 
-156. Findme
+161. Findme
   статус: ✅ переведено
 
-157. Flib
+162. Flib
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/flib
 
-158. Flickerfix
+163. Flickerfix
   статус: ❌ не переведено
 
-159. Flux networks
+164. Flux networks
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/flux-networks
 
-160. Forbidden & arcanus
+165. Forbidden & arcanus
   статус: ❌ не переведено
 
-161. Framedblocks
+166. Framedblocks
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/framedblocks
 
-162. Ftb chunks
+167. Ftb chunks
   статус: ❌ не переведено
 
-163. Ftb essentials
+168. Ftb essentials
   статус: ✅ переведено
 
-164. Ftb library
+169. Ftb library
+  статус: ✅ переведено
+
+170. Ftb quests
   статус: ❌ не переведено
 
-165. Ftb quests
+171. Ftb ranks
   статус: ❌ не переведено
 
-166. Ftb ranks
+172. Ftb teams
   статус: ❌ не переведено
 
-167. Ftb teams
+173. Ftb ultimine
   статус: ❌ не переведено
 
-168. Ftb ultimine
+174. Ftb xmod compat
   статус: ❌ не переведено
 
-169. Ftb xmod compat
+175. Fuel goes here
   статус: ❌ не переведено
 
-170. Fuel goes here
+176. Functional storage
   статус: ❌ не переведено
 
-171. Functional storage
-  статус: ❌ не переведено
-
-172. Fusion
+177. Fusion
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/rechiseled
 
-173. Gateways to eternity
+178. Gateways to eternity
   статус: ❌ не переведено
 
-174. Geckolib 4
+179. Geckolib 4
   статус: ❌ не переведено
   ссылка: http://geckolib.com/
 
-175. Generator galore
+180. Generator galore
   статус: ❌ не переведено
 
-176. Get it together, drops!
+181. Get it together, drops!
   статус: ❌ не переведено
   ссылка: http://minecraft.curseforge.com/projects/get-it-together-drops
 
-177. Glassential renewed
+182. Glassential renewed
   статус: ❌ не переведено
   ссылка: https://curseforge.com/minecraft/mc-mods/glassential-renewed
 
-178. Glodium
+183. Glodium
   статус: ❌ не переведено
   ссылка: https://github.com/GlodBlock/Glodium
 
-179. Gravitational modulating additional unit
+184. Gravitational modulating additional unit
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/gravitational-modulating-additional-unit
 
-180. Gregtech
+185. Gregtech
   статус: ✅ переведено
   ссылка: https://github.com/GregTechCEu/GregTech-Modern/
 
-181. Gunpowderlib
+186. Gunpowderlib
   статус: ❌ не переведено
   ссылка: https://github.com/JackyyTV/GunpowderLib
 
-182. Handcrafted
+187. Handcrafted
   статус: ❌ не переведено
   ссылка: https://modrinth.com/mod/handcrafted
 
-183. Harvest with ease
+188. Harvest with ease
   статус: ❌ не переведено
   ссылка: https://github.com/Nyphet/harvest-with-ease/tree/1.20.1
 
-184. Hostile neural networks
+189. Hostile neural networks
   статус: ❌ не переведено
 
-185. Hyperbox
+190. Hyperbox
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/hyperbox
 
-186. Immersive engineering
+191. Immersive engineering
   статус: ✅ переведено
   ссылка: https://minecraft.curseforge.com/projects/immersive-engineering/
 
-187. Industrial foregoing
+192. Industrial foregoing
   статус: ✅ переведено
 
-188. Industrial foregoing souls
+193. Industrial foregoing souls
   статус: ✅ переведено
 
-189. Integratedcrafting
+194. Integratedcrafting
   статус: ❌ не переведено
 
-190. Integrateddynamics
+195. Integrateddynamics
   статус: ❌ не переведено
 
-191. Integratedterminals
+196. Integratedterminals
   статус: ❌ не переведено
 
-192. Integratedtunnels
+197. Integratedtunnels
   статус: ❌ не переведено
 
-193. Inventory essentials
+198. Inventory essentials
   статус: ✅ переведено
   ссылка: https://mods.twelveiterations.com/mc/inventoryessentials
 
-194. Inventory profiles next
+199. Inventory tweaks refoxed
   статус: ❌ не переведено
-  ссылка: https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next
+  ссылка: https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-refoxed
 
-195. Iron furnaces
+200. Iron furnaces
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/iron-furnaces/
 
-196. Iron jetpacks
+201. Iron jetpacks
   статус: ✅ переведено
   ссылка: https://blakesmods.com/iron-jetpacks
 
-197. Iron's spells 'n spellbooks
+202. Iron's spells 'n spellbooks
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks
 
-198. Item collectors
+203. Item collectors
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/item-collectors
 
-199. Item filters
+204. Item filters
   статус: ✅ переведено
 
-200. Jade
+205. Jade
   статус: ✅ переведено
   ссылка: https://minecraft.curseforge.com/projects/jade
 
-201. Jade addons
+206. Jade addons
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/jade-addons
 
-202. Journeymap
+207. Journeymap
   статус: ✅ переведено
   ссылка: http://journeymap.info
 
-203. Journeymap integration
+208. Journeymap integration
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/journeymap-integration
 
-204. Jumpy boats
+209. Jumpy boats
   статус: ❌ не переведено
 
-205. Just enough archaeology
+210. Just enough archaeology
   статус: ✅ переведено
 
-206. Just enough items
+211. Just enough items
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/jei
 
-207. Just enough mekanism multiblocks
+212. Just enough mekanism multiblocks
   статус: ❌ не переведено
   ссылка: https://curseforge.com/minecraft/mc-mods/just-enough-mekanism-multiblocks
 
-208. Just enough professions (jep)
+213. Just enough professions (jep)
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep
 
-209. Just enough resources
+214. Just enough resources
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
 
-210. Just zoom
+215. Just zoom
   статус: ✅ переведено
 
-211. Konkrete
+216. Konkrete
   статус: ❌ не переведено
 
-212. Kubejs
+217. Kubejs
   статус: ❌ не переведено
 
-213. Laserio
+218. Laserio
   статус: ❌ не переведено
   ссылка: https://github.com/Direwolf20-MC/LaserIO
 
-214. Libipn
-  статус: ✅ переведено
-  ссылка: https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next
-
-215. Libx
+219. Libx
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/libx
 
-216. Lionfishapi
+220. Lionfishapi
   статус: ✅ переведено
 
-217. Lithostitched
+221. Lithostitched
   статус: ❌ не переведено
 
-218. Little contraptions
+222. Little contraptions
   статус: ✅ переведено
   ссылка: https://littlelogistics.murad.dev
 
-219. Little logistics
+223. Little logistics
   статус: ❌ не переведено
   ссылка: https://littlelogistics.murad.dev
 
-220. Logprot
+224. Logprot
   статус: ❌ не переведено
   ссылка: https://github.com/ldtteam/Logprot/
 
-221. Lootr
+225. Lootr
   статус: ✅ переведено
   ссылка: https://minecraft.curseforge.com/projects/lootr
 
-222. Lostcities
+226. Lostcities
   статус: ✅ переведено
 
-223. Macaw's bridges
+227. Lowdraglib
+  статус: ❌ не переведено
+  ссылка: https://github.com/Low-Drag-MC/
+
+228. Macaw's bridges
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-bridges
 
-224. Macaw's bridges - bop
+229. Macaw's bridges - bop
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-biome-o-plenty
 
-225. Macaw's doors
+230. Macaw's doors
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-doors
 
-226. Macaw's fences - bop
+231. Macaw's fences - bop
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-fences-biomes-o-plenty
 
-227. Macaw's fences and walls
+232. Macaw's fences and walls
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls
 
-228. Macaw's furniture
+233. Macaw's furniture
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-furniture
 
-229. Macaw's lights and lamps
+234. Macaw's lights and lamps
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps
 
-230. Macaw's paintings
+235. Macaw's paintings
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-paintings
 
-231. Macaw's paths and pavings
+236. Macaw's paths and pavings
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings
 
-232. Macaw's roofs
+237. Macaw's roofs
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-roofs
 
-233. Macaw's roofs - bop
+238. Macaw's roofs - bop
   статус: ✅ переведено
   ссылка: https://curseforge.com/minecraft/mc-mods/macaws-roofs-biomes-o-plenty
 
-234. Macaw's trapdoors
+239. Macaw's trapdoors
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors
 
-235. Macaw's windows
+240. Macaw's windows
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/macaws-windows
 
-236. Mahou tsukai
+241. Mahou tsukai
   статус: ✅ переведено
 
-237. Mcjtylib
+242. Mcjtylib
   статус: ✅ переведено
 
-238. Me requester
+243. Me requester
   статус: ❌ не переведено
 
-239. Measurements
+244. Measurements
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/measurements
 
-240. Mega cells
+245. Mega cells
   статус: ✅ переведено
 
-241. Mekanism
-  статус: ✅ переведено
-  ссылка: https://aidancbrady.com/mekanism/
-
-242. Mekanism: generators
+246. Mekanism
   статус: ✅ переведено
   ссылка: https://aidancbrady.com/mekanism/
 
-243. Mekanism: tools
+247. Mekanism: generators
   статус: ✅ переведено
   ссылка: https://aidancbrady.com/mekanism/
 
-244. Memorysettings mod
+248. Mekanism: tools
+  статус: ✅ переведено
+  ссылка: https://aidancbrady.com/mekanism/
+
+249. Memorysettings mod
   статус: ✅ переведено
 
-245. Minecolonies
+250. Minecolonies
   статус: ✅ переведено
   ссылка: https://minecolonies.com
 
-246. Mining gadgets
+251. Mining gadgets
   статус: ✅ переведено
   ссылка: https://github.com/Direwolf20-MC/MiningGadgets/
 
-247. Mob despawn timers
+252. Mob despawn timers
   статус: ❌ не переведено
 
-248. Mob grinding utils
+253. Mob grinding utils
   статус: ❌ не переведено
 
-249. Model gap fix
+254. Model gap fix
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/model-gap-fix
 
-250. Modernfix
+255. Modernfix
   статус: ✅ переведено
   ссылка: https://modrinth.com/mod/modernfix
 
-251. Modonomicon
+256. Modonomicon
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/modonomicon
 
-252. Modular routers
+257. Modular routers
   статус: ❌ не переведено
 
-253. Moonlight library
+258. Moonlight library
   статус: ✅ переведено
 
-254. More dragon eggs
+259. More dragon eggs
   статус: ❌ не переведено
 
-255. More overlays updated
+260. More overlays updated
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated
 
-256. More red
-  статус: ❌ не переведено
+261. More red
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/more-red
 
-257. Morejs
+262. Morejs
   статус: ❌ не переведено
 
-258. Mouse tweaks
+263. Mouse tweaks
   статус: ❌ не переведено
   ссылка: https://minecraft.curseforge.com/projects/mouse-tweaks
 
-259. Mrcrayfish's furniture mod
+264. Mrcrayfish's furniture mod
   статус: ✅ переведено
   ссылка: https://mrcrayfish.com/mods?id=cfm
 
-260. Multi-piston
+265. Multi-piston
   статус: ✅ переведено
 
-261. Myserveriscompatible
+266. Myserveriscompatible
   статус: ❌ не переведено
 
-262. Mysterious mountain lib
+267. Mysterious mountain lib
   статус: ❌ не переведено
 
-263. Mystical agradditions
+268. Mystical agradditions
   статус: ✅ переведено
   ссылка: https://blakesmods.com/mystical-agradditions
 
-264. Mystical agriculture
-  статус: ❌ не переведено
+269. Mystical agriculture
+  статус: ✅ переведено
   ссылка: https://blakesmods.com/mystical-agriculture
 
-265. Mystical agriculture tiered crystals
+270. Mystical agriculture tiered crystals
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-tiered-crystals
 
-266. Mystical customization
+271. Mystical customization
   статус: ❌ не переведено
   ссылка: https://blakesmods.com/mystical-customization
 
-267. Mythicbotany
+272. Mythicbotany
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/mythicbotany
 
-268. Naturalist
+273. Naturalist
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/naturalist
 
-269. Nature's compass
+274. Nature's compass
   статус: ✅ переведено
   ссылка: https://github.com/MattCzyr/NaturesCompass
 
-270. Naturesaura
+275. Naturesaura
   статус: ❌ не переведено
 
-271. Nether's delight
+276. Nether's delight
   статус: ❌ не переведено
   ссылка: https://github.com/Umpaz/NethersDelight
 
-272. Netherportalfix
+277. Netherportalfix
   статус: ✅ переведено
   ссылка: https://mods.twelveiterations.com/mc/netherportalfix
 
-273. No chat reports
+278. No chat reports
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/no-chat-reports
 
-274. No trample
+279. No trample
   статус: ❌ не переведено
 
-275. No villager death messages
+280. No villager death messages
   статус: ❌ не переведено
 
-276. No-fly zone
+281. No-fly zone
   статус: ✅ переведено
 
-277. Observable
+282. Observable
   статус: ✅ переведено
   ссылка: https://github.com/tasgon/observable
 
-278. Occultism
+283. Occultism
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/occultism
 
-279. Ocean's delight
+284. Ocean's delight
   статус: ✅ переведено
 
-280. Oculus
+285. Oculus
   статус: ❌ не переведено
   ссылка: https://curseforge.com/minecraft/mc-mods/oculus
 
-281. Packet fixer
+286. Packet fixer
   статус: ❌ не переведено
 
-282. Packing tape
+287. Packing tape
   статус: ✅ переведено
   ссылка: https://github.com/gigaherz/PackingTape
 
-283. Packmenu
+288. Packmenu
   статус: ✅ переведено
 
-284. Paraglider
+289. Paraglider
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/paragliders
 
-285. Patchouli
+290. Patchouli
   статус: ✅ переведено
 
-286. Pigpen
+291. Pigpen
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/pig-pen-cipher
 
-287. Pipez
+292. Pipez
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/pipez
 
-288. Placebo
+293. Placebo
   статус: ✅ переведено
 
-289. Platforms
+294. Platforms
   статус: ❌ не переведено
   ссылка: https://shetiphian.carrd.co
 
-290. Player animator
+295. Player animator
   статус: ❌ не переведено
 
-291. Pneumaticcraft: repressurized
-  статус: ❌ не переведено
-
-292. Polymorph
+296. Pneumaticcraft: repressurized
   статус: ✅ переведено
 
-293. Polymorphic energistics
+297. Polymorph
+  статус: ✅ переведено
+
+298. Polymorphic energistics
   статус: ❌ не переведено
 
-294. Ponderjs
+299. Ponderjs
   статус: ❌ не переведено
 
-295. Potion-blender
+300. Potion-blender
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/potion-blender
 
-296. Potionsmaster
+301. Potionsmaster
   статус: ✅ переведено
 
-297. Powah
+302. Powah
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/powah
 
-298. Prism
-  статус: ❌ не переведено
-  ссылка: https://anthonyhilyard.com/
-
-299. Productive bees
+303. Productive bees
   статус: ❌ не переведено
 
-300. Productive trees
+304. Productive trees
   статус: ❌ не переведено
 
-301. Pylons
-  статус: ❌ не переведено
+305. Pylons
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/pylons
 
-302. Quark
+306. Quark
   статус: ❌ не переведено
 
-303. Quarryplus
+307. Quarryplus
   статус: ✅ переведено
   ссылка: https://github.com/Kotori316/QuarryPlus
 
-304. Railcraft reborn
+308. Railcraft reborn
   статус: ✅ переведено
 
-305. Ranged pumps
+309. Ranged pumps
   статус: ✅ переведено
   ссылка: https://refinedmods.com/ranged-pumps
 
-306. Rebornstorage
+310. Rebornstorage
   статус: ✅ переведено
 
-307. Rechiseled
+311. Rechiseled
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/rechiseled
 
-308. Rechiseled: create
+312. Rechiseled: create
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/rechiseled
 
-309. Redstone arsenal
+313. Redstone arsenal
   статус: ✅ переведено
   ссылка: https://teamcofh.com/
 
-310. Refined polymorphism
+314. Refined polymorphism
   статус: ❌ не переведено
 
-311. Refined storage
+315. Refined storage
   статус: ✅ переведено
   ссылка: https://refinedmods.com/refined-storage
 
-312. Refined storage addons
+316. Refined storage addons
   статус: ✅ переведено
   ссылка: https://refinedmods.com/refined-storage-addons
 
-313. Reliquary
-  статус: ❌ не переведено
+317. Reliquary
+  статус: ✅ переведено
 
-314. Repurposed structures
+318. Repurposed structures
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/repurposed-structures
 
-315. Resourceful lib
+319. Resourceful lib
   статус: ❌ не переведено
 
-316. Resourcefulconfig
+320. Resourcefulconfig
   статус: ❌ не переведено
 
-317. Rftoolsbase
+321. Rftoolsbase
   статус: ❌ не переведено
 
-318. Rftoolsbuilder
+322. Rftoolsbuilder
   статус: ❌ не переведено
 
-319. Rftoolscontrol
+323. Rftoolscontrol
   статус: ❌ не переведено
 
-320. Rftoolspower
+324. Rftoolspower
   статус: ❌ не переведено
 
-321. Rftoolsstorage
+325. Rftoolsstorage
   статус: ❌ не переведено
 
-322. Rftoolsutility
+326. Rftoolsutility
   статус: ❌ не переведено
 
-323. Rhino
+327. Rhino
   статус: ❌ не переведено
 
-324. Rs insert export upgrade
+328. Rs insert export upgrade
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/rs-insert-export-upgrade
 
-325. Rsinfinitybooster
+329. Rsinfinitybooster
   статус: ✅ переведено
 
-326. Rsrequestify
+330. Rsrequestify
   статус: ✅ переведено
 
-327. Rubidium dynamic lights
+331. Rubidium dynamic lights
   статус: ❌ не переведено
 
-328. Runelic
+332. Runelic
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/runelic
 
-329. Searchables
+333. Searchables
   статус: ✅ переведено
   ссылка: https://minecraft.curseforge.com/projects/searchables
 
-330. Securitycraft
+334. Securitycraft
   статус: ❌ не переведено
   ссылка: https://discord.gg/U8DvBAW
 
-331. Serverconfig updater
+335. Serverconfig updater
   статус: ❌ не переведено
 
-332. Shetiphian-core
+336. Shetiphian-core
   статус: ❌ не переведено
   ссылка: https://shetiphian.carrd.co
 
-333. Shrink
+337. Shrink
   статус: ✅ переведено
 
-334. Silent gear
+338. Silent gear
   статус: ❌ не переведено
 
-335. Silent lib
+339. Silent lib
   статус: ✅ переведено
 
-336. Simple backups
+340. Simple backups
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/members/melanx/
 
-337. Simple magnets
+341. Simple magnets
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/simple-magnets
 
-338. Simply light
+342. Simply light
   статус: ❌ не переведено
 
-339. Smartbrainlib
+343. Smartbrainlib
   статус: ❌ не переведено
 
-340. Sophisticated backpacks
+344. Sophisticated backpacks
   статус: ✅ переведено
 
-341. Sophisticated core
+345. Sophisticated core
   статус: ❌ не переведено
 
-342. Sophisticated storage
+346. Sophisticated storage
   статус: ❌ не переведено
 
-343. Spark
+347. Spark
   статус: ❌ не переведено
 
-344. Sparsestructuresreforged
+348. Sparsestructuresreforged
   статус: ❌ не переведено
 
-345. Spice of life: carrot edition
+349. Spice of life: carrot edition
   статус: ✅ переведено
 
-346. Stargate journey
+350. Stargate journey
   статус: ❌ не переведено
 
-347. Structory
+351. Structory
   статус: ❌ не переведено
   ссылка: https://www.stardustlabs.net/
 
-348. Structure compass mod
+352. Structure compass mod
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/structure-compass
 
-349. Structure gel api
+353. Structure gel api
   статус: ❌ не переведено
   ссылка: https://moddinglegacy.com/
 
-350. Structurize
+354. Structurize
   статус: ❌ не переведено
   ссылка: https://minecolonies.com/
 
-351. Stylecolonies mod
+355. Stylecolonies mod
   статус: ❌ не переведено
 
-352. Super factory manager
+356. Super factory manager
   статус: ❌ не переведено
 
-353. Supermartijn642's config library
+357. Supermartijn642's config library
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib
 
-354. Supermartijn642's core lib
+358. Supermartijn642's core lib
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib
 
-355. Supplementaries
+359. Supplementaries
   статус: ✅ переведено
 
-356. Sushi go crafting
+360. Sushi go crafting
   статус: ✅ переведено
 
-357. Tempad
+361. Tempad
   статус: ❌ не переведено
   ссылка: https://modrinth.com/mod/tempad
 
-358. Terrablender
+362. Terrablender
   статус: ✅ переведено
 
-359. Terralith
+363. Terralith
   статус: ✅ переведено
   ссылка: https://www.stardustlabs.net/
 
-360. Textrue's embeddium options
-  статус: ❌ не переведено
-  ссылка: https://github.com/ThinkingStudios/textrues-embeddium-options
-
-361. The aether
+364. The aether
   статус: ✅ переведено
   ссылка: https://modrinth.com/mod/aether
 
-362. The twilight forest
+365. The twilight forest
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
 
-363. The undergarden
+366. The undergarden
   статус: ✅ переведено
 
-364. Thermal cultivation
+367. Thermal cultivation
   статус: ❌ не переведено
   ссылка: https://teamcofh.com/
 
-365. Thermal dynamics
+368. Thermal dynamics
   статус: ❌ не переведено
   ссылка: https://teamcofh.com/
 
-366. Thermal expansion
+369. Thermal expansion
   статус: ❌ не переведено
   ссылка: https://teamcofh.com/
 
-367. Thermal extra
+370. Thermal extra
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/thermal_extra
 
-368. Thermal foundation
+371. Thermal foundation
   статус: ✅ переведено
   ссылка: https://teamcofh.com/
 
-369. Thermal innovation
+372. Thermal innovation
   статус: ❌ не переведено
   ссылка: https://teamcofh.com/
 
-370. Thermal integration
+373. Thermal integration
   статус: ✅ переведено
   ссылка: https://teamcofh.com/
 
-371. Thermal locomotion
+374. Thermal locomotion
   статус: ❌ не переведено
   ссылка: https://teamcofh.com/
 
-372. Theurgy
+375. Theurgy
   статус: ❌ не переведено
 
-373. Time in a bottle
+376. Time in a bottle
   статус: ✅ переведено
 
-374. Tiny redstone
+377. Tiny redstone
   статус: ❌ не переведено
 
-375. Titanium
+378. Titanium
   статус: ❌ не переведено
 
-376. Toast control
+379. Toast control
   статус: ✅ переведено
 
-377. Tool belt
+380. Tool belt
   статус: ✅ переведено
   ссылка: https://github.com/gigaherz/ToolBelt
 
-378. Torchmaster
+381. Torchmaster
   статус: ✅ переведено
 
-379. Towers of the wild modded
+382. Towers of the wild modded
   статус: ❌ не переведено
 
-380. Towns and towers
+383. Towns and towers
   статус: ❌ не переведено
 
-381. Towntalk
+384. Towntalk
   статус: ❌ не переведено
   ссылка: https://minecolonies.com
 
-382. Trash cans
-  статус: ❌ не переведено
+385. Trash cans
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/trash-cans
 
-383. Trashslot
+386. Trashslot
   статус: ✅ переведено
   ссылка: https://mods.twelveiterations.com/mc/trashslot
 
-384. Traveler's backpack
+387. Traveler's backpack
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/travelers-backpack
 
-385. Twigs
+388. Twigs
   статус: ❌ не переведено
 
-386. Twilight's flavor & delight
+389. Twilight's flavor & delight
   статус: ✅ переведено
 
-387. U team core
-  статус: ✅ переведено
-  ссылка: https://u-team.info/mods/uteamcore
-
-388. Ui library mod
+390. Ui library mod
   статус: ✅ переведено
 
-389. Universal grid
+391. Universal grid
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/universal-grid
 
-390. Useful railroads
-  статус: ❌ не переведено
-  ссылка: https://u-team.info/mods/usefulrailroads
-
-391. Utilitarian
+392. Utilitarian
   статус: ✅ переведено
 
-392. Utilitix
-  статус: ❌ не переведено
+393. Utilitix
+  статус: ✅ переведено
   ссылка: www.curseforge.com/members/melanx/
 
-393. Valhelsia core
+394. Valhelsia core
   статус: ❌ не переведено
 
-394. Villagertools
+395. Villagertools
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/villager-tools
 
-395. Void totem
+396. Void totem
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/voidtotem
 
-396. Voidscape
+397. Voidscape
   статус: ❌ не переведено
 
-397. Waystones
+398. Waystones
   статус: ❌ не переведено
   ссылка: https://mods.twelveiterations.com/mc/waystones
 
-398. When dungeons arise
+399. When dungeons arise
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise
 
-399. Wireless chargers
+400. Wireless chargers
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/wireless-chargers
 
-400. Wither skeleton tweaks
+401. Wither skeleton tweaks
   статус: ✅ переведено
 
-401. Xnet
+402. Xnet
   статус: ❌ не переведено
 
-402. Xnet gases
+403. Xnet gases
   статус: ❌ не переведено
 
-403. Yeetus experimentus
+404. Yeetus experimentus
   статус: ❌ не переведено
 
-404. Yung's api
+405. Yung's api
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-api
 
-405. Yung's better desert temples
+406. Yung's better desert temples
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples
 
-406. Yung's better dungeons
+407. Yung's better dungeons
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons
 
-407. Yung's better end island
+408. Yung's better end island
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island
 
-408. Yung's better jungle temples
+409. Yung's better jungle temples
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples
 
-409. Yung's better mineshafts
+410. Yung's better mineshafts
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge
 
-410. Yung's better nether fortresses
+411. Yung's better nether fortresses
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses
 
-411. Yung's better ocean monuments
+412. Yung's better ocean monuments
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments
 
-412. Yung's better strongholds
+413. Yung's better strongholds
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds
 
-413. Yung's better witch huts
+414. Yung's better witch huts
   статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts
 
-414. Yung's extras
+415. Yung's extras
   статус: ❌ не переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/yungs-extras
 
-415. Zero core 2
+416. Zero core 2
   статус: ❌ не переведено
 
-416. Zeta
+417. Zeta
   статус: ❌ не переведено
