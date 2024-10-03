@@ -146,7 +146,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/attributefix
 
 43. Bad wither no cookie reloaded
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://minecraft.curseforge.com/projects/bad-wither-no-cookie-reloaded
 
 44. Balm
@@ -269,7 +269,7 @@
   ссылка: https://www.curseforge.com/minecraft/mc-mods/clumps
 
 77. Codechicken lib
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8
 
 78. Cofh core
@@ -690,7 +690,7 @@
   ссылка: https://mods.twelveiterations.com/mc/inventoryessentials
 
 199. Inventory tweaks refoxed
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-refoxed
 
 200. Iron furnaces
@@ -764,7 +764,7 @@
   ссылка: https://github.com/Direwolf20-MC/LaserIO
 
 219. Libx
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/libx
 
 220. Lionfishapi
@@ -1210,7 +1210,7 @@
   статус: ✅ переведено
 
 345. Sophisticated core
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 346. Sophisticated storage
   статус: ❌ не переведено
@@ -1228,7 +1228,7 @@
   статус: ❌ не переведено
 
 351. Structory
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.stardustlabs.net/
 
 352. Structure compass mod
@@ -1327,7 +1327,7 @@
   статус: ❌ не переведено
 
 378. Titanium
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 379. Toast control
   статус: ✅ переведено
