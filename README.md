@@ -107,7 +107,7 @@
   статус: ✅ переведено
 
 32. Appliedflux
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://github.com/GlodBlock/ExtendedAE
 
 33. Aquaculture 2
@@ -185,7 +185,7 @@
   ссылка: https://moddinglegacy.com/
 
 54. Bookshelf
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/bookshelf
 
 55. Botania
@@ -286,7 +286,7 @@
   статус: ✅ переведено
 
 82. Configuration
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 83. Connected glass
   статус: ✅ переведено
@@ -618,11 +618,11 @@
   статус: ❌ не переведено
 
 179. Geckolib 4
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: http://geckolib.com/
 
 180. Generator galore
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 181. Get it together, drops!
   статус: ❌ не переведено
@@ -717,7 +717,7 @@
   ссылка: https://minecraft.curseforge.com/projects/jade
 
 206. Jade addons
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://www.curseforge.com/minecraft/mc-mods/jade-addons
 
 207. Journeymap
@@ -855,7 +855,7 @@
   статус: ✅ переведено
 
 243. Me requester
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 244. Measurements
   статус: ✅ переведено
@@ -974,7 +974,7 @@
   статус: ❌ не переведено
 
 276. Nether's delight
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://github.com/Umpaz/NethersDelight
 
 277. Netherportalfix
@@ -1187,7 +1187,7 @@
   статус: ✅ переведено
 
 338. Silent gear
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 339. Silent lib
   статус: ✅ переведено
@@ -1213,7 +1213,7 @@
   статус: ✅ переведено
 
 346. Sophisticated storage
-  статус: ❌ не переведено
+  статус: ✅ переведено
 
 347. Spark
   статус: ❌ не переведено
@@ -1396,7 +1396,7 @@
   статус: ❌ не переведено
 
 398. Waystones
-  статус: ❌ не переведено
+  статус: ✅ переведено
   ссылка: https://mods.twelveiterations.com/mc/waystones
 
 399. When dungeons arise
